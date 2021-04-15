@@ -1,5 +1,5 @@
 # Particle Swarm Optimization
-A simple implementation of 'Particle swarm optimization' with plain python and some applications. A brief presentation is attached.
+A simple implementation of 'Particle swarm optimization' algorithm with plain python and some applications. A brief presentation is attached.
 
 ## P0 - Optimization of several test functions
 Some non-convex, complex, with many local-optima functions, to test the efficiency of the algorithm.
